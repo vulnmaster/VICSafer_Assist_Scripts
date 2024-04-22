@@ -1,3 +1,6 @@
+# (C) Project VIC International, 2024
+# Released under Apache 2 License
+
 #!/bin/bash
 
 # Define the input and output files
