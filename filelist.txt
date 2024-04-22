@@ -1,0 +1,2 @@
+# The "extract_filenames.sh" script will place extracted filenames from directory_listing.txt into this file.
+# "process_files.sh" will use this file list to find and extract the images and videos from the VICSafer directory structure.

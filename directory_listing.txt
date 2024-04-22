@@ -1,0 +1,3 @@
+# Copy the list of directories from the VICSafer "Analysis_my_scan...xlsx" spreadsheet "media_path" column here. 
+# Overwrite these comments when you do.
+# In Ubuntu run "dos2unix directorylisting.txt" from the terminal.
